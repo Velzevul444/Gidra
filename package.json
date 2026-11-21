@@ -3,6 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4",
+    "react-router-dom": "^6.15.0",
+    "zustand": "^4.5.0",
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.27",
+    "autoprefixer": "^10.4.19",
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.3",
@@ -10,14 +20,10 @@
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.126",
     "@types/react": "^19.3.0",
-    "@types/react-dom": "^19.3.0",
-    "react": "^19.3.1",
-    "react-dom": "^19.3.1",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "@types/react-dom": "^19.3.0"
   },
   "scripts": {
+    "cli": "node cli/index.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

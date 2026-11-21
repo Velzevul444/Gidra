@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZhmLdAZluo95XRubYdmQWA/GirPfx+af7HSzTH8Nq2s=",
+  "Source": "Gidra.Api",
+  "BasePath": "_content/Gidra.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Кофеварка Philips 1234",
+    "price": 2999,
+    "category": "Для дома",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук Lenovo ThinkPad X1",
+    "price": 12999,
+    "category": "Ноутбуки",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Смартфон Samsung Galaxy S24",
+    "price": 7499,
+    "category": "Смартфоны",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Пылесос Dyson V11",
+    "price": 11999,
+    "category": "Для дома",
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Термос Tupperware",
+    "price": 1999,
+    "category": "Для дома",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Наушники Sony WH-1000XM4",
+    "price": 15999,
+    "category": "Наушники",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Часы Apple Watch Series 9",
+    "price": 22999,
+    "category": "Смартфоны",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Камера Canon EOS R5",
+    "price": 54999,
+    "category": "Фото и видео",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Планшет для творчества",
+    "price": 18990,
+    "category": "Смартфоны",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Портативная колонка Sound Go",
+    "price": 4990,
+    "category": "Аудио",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Монитор UltraView 27",
+    "price": 24990,
+    "category": "Компьютеры",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Беспроводная мышь Air",
+    "price": 2490,
+    "category": "Компьютеры",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"
+  }
+]
